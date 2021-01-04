@@ -1,2 +1,4 @@
-# Cynical Squid (Project Name)
-A up-and-coming roleplay project being developed for Garry's Mod
+# SLRP
+> Sanctioned Life Roleplay<br/>
+
+A custom hl2rp-based roleplay experience for Garry's Mod.
